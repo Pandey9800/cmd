@@ -1,0 +1,17 @@
+#Text1{
+   width: 630px;
+   height: 250px;
+   border: 3px solid lightseagreen;
+   background-image:url(../images/contact2.jpg);
+   background-repeat: no-repeat;
+   margin: 30px;
+   padding: 20px,50px;
+}
+#cmd{
+    text-align:center ;
+    color: rgb(16, 240, 135);
+}
+#box{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
